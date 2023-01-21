@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\tirec\Desktop\Учёба\выч мат\Лаба 5. Метод итераций\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tirec\Desktop\Учёба\выч мат\Лаба 5. Метод итераций\Source.cpp(8,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\tirec\Desktop\Учёба\выч мат\Лаба 5. Метод итераций\Source.cpp(8,15): warning C4101: p: неиспользованная локальная переменная
+  Лаба 5. Метод итераций.vcxproj -> C:\Users\tirec\Desktop\Учёба\выч мат\Лаба 5. Метод итераций\Debug\Лаба 5. Метод итераций.exe
